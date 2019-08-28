@@ -1,5 +1,4 @@
-# SistemasDistribuidos
-Sistema para acompanhamento de jogos de futebol 
+# Sistemas Distribuidos
 
 Sistema para acompanhamento de jogos de futebol 
 
