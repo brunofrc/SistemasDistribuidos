@@ -25,7 +25,7 @@ Regras:
 
 Ferramentas: 
 
-A aplicação será desenvolvida em Java e utilizará um banco de dados PostGreSQL. 
+A aplicação será desenvolvida em Java e utilizará um banco de dados mongodb. 
 
 Testes: 
 
